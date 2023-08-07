@@ -1,0 +1,82 @@
+h1 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  height: 400px;
+  opacity: 1;
+}
+
+.presentation {
+  background-image: url("../images/istockphoto-1386156141-612x612.webp");
+  color: rgb(240, 198, 143);
+  height: 100%;
+}
+
+.presentation_holder {
+  font-weight: bold;
+  color: blue;
+  font-size: 18px;
+}
+
+.sujet__li {
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: underline;
+  color: rgb(65, 119, 55);
+}
+
+.photo p {
+  color: rgb(0, 10, 95);
+  box-shadow: 30px;
+}
+
+#super {
+  color: fuchsia;
+}
+
+.photo_ex {
+  color: coral;
+}
+
+.border {
+  border: 1px solid red;
+  border-radius: 20px;
+  box-shadow: 5px 5px black;
+  padding: 10px;
+  text-align: justify;
+  font-size: large;
+}
+
+.box__1 {
+  height: 150px;
+  width: 150px;
+  background-color: magenta;
+}
+.box__2 {
+  height: 150px;
+  width: 150px;
+  background-color: blue;
+}
+.box__3 {
+  height: 150px;
+  width: 150px;
+  background-color: green;
+}
+
+.BOX__1 {
+  height: 250px;
+  width: 250px;
+  background-color: rgb(184, 33, 6);
+}
+.BOX__2 {
+  height: 250px;
+  width: 250px;
+  background-color: rgb(2, 173, 151);
+}
+.BOX__3 {
+  height: 250px;
+  width: 250px;
+  background-color: rgb(128, 0, 107);
+}
+
+/*# sourceMappingURL=style.css.map */
